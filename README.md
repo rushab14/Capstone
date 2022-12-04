@@ -1,2 +1,2 @@
-# Capstone Project - JR_06
+# Capstone Project - PW22_JR_06
 ## Project Title: Framework for Home Layout design by Semantic Parsing of Text
